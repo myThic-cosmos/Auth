@@ -27,8 +27,14 @@ Auth with firebase using defalt ui and sdk
 
 
 <p><strong>Step 4.</strong>Connect firebase in your project</p>
- <p>Sign in your gmail in android studio (button available in top right corner)<br>
- Then follow the steps:<br>
- <pre><b>Tools</b> -> <b>Firebase</b> -> <b>Analytics</b> -> <b>Log on analytics event</b> -> <b>Connect to firebase</b></pre>
- <br>After that give a name and finish setup
-<p>
+Sign in your gmail in android studio (button available in top right corner)<br>
+Then follow the steps:<br>
+<pre><b>Tools</b> -> <b>Firebase</b> -> <b>Analytics</b> -> <b>Log on analytics event</b> -> <b>Connect to firebase</b></pre>
+After that give a name and finish setup
+
+<p><strong>Step 4.</strong>go to https://console.firebase.google.com/</p>
+click on your project<br>
+Then follow the steps:<br>
+<pre><b>Develop</b> -> <b>Authentication</b> -> <b>Sign-in method</b></pre>
+ Enable which option you choose
+

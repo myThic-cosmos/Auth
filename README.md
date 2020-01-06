@@ -41,12 +41,12 @@ If you support sign-in with Facebook or Twitter, add string resources to strings
  
  <pre><code>
  <resources>
-        <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+        `<string name="facebook_application_id" translatable="false">`YOUR_APP_ID</string>
         <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
         <string name="twitter_consumer_key" translatable="false">YOUR_CONSUMER_KEY</string>
         <string name="twitter_consumer_secret" translatable="false">YOUR_CONSUMER_SECRET</string>
  </resources>
  <code></pre>     
  replace your app id<br>
- see this vedio https://www.youtube.com/watch?v=EO-_vwfVi7c&t=962s for how to find fb app id and secret
+ <br>see this vedio https://www.youtube.com/watch?v=EO-_vwfVi7c&t=962s for how to find fb app id and secret
 

@@ -24,3 +24,10 @@ Auth with firebase using defalt ui and sdk
 
 <p><strong>Step 3.</strong> Add the INTERNET permission to your manifest file</p>
 <pre><code>  uses-permission android:name="android.permission.INTERNET"</code></pre>
+
+
+<p><strong>Step 4.</strong>Connect firebase in your project</p>
+ Sign in your gmail in android studio (button available in top right corner)
+ Then follow the steps
+ <b>Tools</b> -> <b>Firebase</b> -> <b>Analytics</b> -> <b>Log on analytics event</b> -> <b>Connect to firebase</b>
+ After that give a name and finish setup

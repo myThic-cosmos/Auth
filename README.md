@@ -1,3 +1,6 @@
+#DEPRICATED#
+No more maintenance
+
 # Auth
 Auth with firebase using defalt ui and sdk
 
